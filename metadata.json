@@ -1,0 +1,5 @@
+{
+  "name": "Friday Night React",
+  "description": "A web-based rhythm game inspired by Friday Night Funkin' featuring original procedural music, custom SVG characters, and a comprehensive game loop.",
+  "requestFramePermissions": []
+}
